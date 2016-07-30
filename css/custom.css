@@ -1,6 +1,6 @@
 
 body {
-    background-color:#bab095;
+    background-color:white;
     text-align:center;
     padding:20px;
     overflow: hidden;
@@ -12,7 +12,7 @@ body {
     border-radius:12px;
     width:500px;
     margin:0 auto;
-    background-color:#958867;
+    background-color:whitesmoke;
     padding:20px;
     margin-bottom:40px;
 }
@@ -35,7 +35,7 @@ h2 {
 }
 
 .seccion1 {
-	top:120px;
+	top:80px;
     left:160px;
 	width: 440px;
 }
@@ -66,8 +66,8 @@ nav {
     position: absolute;
     bottom:4px;
     left:4px;
-    width:320px;
-    height:50px;
+    width:1359px;
+    height:100px;
     background-color:#333221;
     color:#ffffff;
     padding:0px;
